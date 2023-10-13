@@ -1,0 +1,25 @@
+body{
+    background-color:black
+}
+#title{
+    text-align: center;
+}
+#content{
+    width: 80%;
+    position: relative;
+    left:10%;
+}
+
+.left{
+float: left;
+width: 50%;
+}
+.right{
+float: left;
+width: 50%;
+}
+.two-columns{
+    content:"";
+    display: table;
+    clear: both;
+}
